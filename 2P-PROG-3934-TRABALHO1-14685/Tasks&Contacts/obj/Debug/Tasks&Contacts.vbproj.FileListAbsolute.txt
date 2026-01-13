@@ -1,0 +1,16 @@
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\bin\Debug\Tasks&Contacts.exe.config
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\bin\Debug\Tasks&Contacts.exe
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\bin\Debug\Tasks&Contacts.pdb
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\bin\Debug\Tasks&Contacts.xml
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks&Contacts.vbproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks_Contacts.Resources.resources
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks&Contacts.vbproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks&Contacts.vbproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks&Contacts.exe
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks&Contacts.xml
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks&Contacts.pdb
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks_Contacts.Form1.resources
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks_Contacts.FrmContatos.resources
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks_Contacts.FrmTipoContato.resources
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks_Contacts.FrmTarefas.resources
+C:\Users\ruben\OneDrive\Ambiente de Trabalho\escola\VB-main\VB-main\Tasks&Contacts\obj\Debug\Tasks_Contacts.FrmTiposTarefa.resources
